@@ -5,7 +5,7 @@
 -  I’m looking to collaborate on interesting projects.
 
 ```javascript
-const thai = {
+const caro = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, Html, CSS],
   tools: [React, Node, Jest],
@@ -15,6 +15,9 @@ const thai = {
                       },
 }
 ```
+You can find me: 
+- [Twitter](https://twitter.com/cookbluex) 
+
 
 These are my favorite command terminals:
 
