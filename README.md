@@ -1,8 +1,20 @@
 ##  Hi!  I'm Carolina :smile:
-- I’m a software developer
+- 🙋🏻‍♀️ I'm a software developer
 - 💞️ I'm interested in improving my technical skills
 - 🌱 I’m currently learning React/Node
 -  I’m looking to collaborate on interesting projects.
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, Html, CSS],
+  tools: [React, Node, Jest],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        student: AWS Girls,
+                      },
+}
+```
 
 These are my favorite command terminals:
 
