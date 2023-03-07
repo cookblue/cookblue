@@ -19,6 +19,8 @@ You can find me:
 - [Twitter](https://twitter.com/cookbluex) 
 
 
+[![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookblue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 These are my favorite command terminals:
 
 | Command  | Description | Example |
