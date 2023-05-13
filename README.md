@@ -1,4 +1,4 @@
-##  Hi!  I'm Caro :smile:
+##  Hi!  I'm Diana :smile:
 - 🙋🏻‍♀️ I'm a software developer
 - 💞️ I'm interested in improving my technical skills
 - 🌱 I’m currently learning React/Node
