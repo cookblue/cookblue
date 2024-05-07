@@ -1,7 +1,7 @@
 ##  Hi!  I'm Diana :smile:
-- 🙋🏻‍♀️ I'm a software developer
+- 🙋🏻‍♀️ I'm a UX Engineer
 - 💞️ I'm interested in improving my technical skills
-- 🌱 I’m currently learning React/Node
+- 🌱 I’m working with React/Node
 -  I’m looking to collaborate on interesting projects.
 
 ```javascript
@@ -10,14 +10,9 @@ const caro = {
   code: [Javascript, Typescript, Html, CSS],
   tools: [React, Node, Jest],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        student: AWS Girls,
-                      },
 }
 ```
 You can find me: 
-- [Twitter](https://twitter.com/cookbluex) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookblue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
