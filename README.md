@@ -1,5 +1,5 @@
-##  Hi!  I'm Diana :smile:
-- 🙋🏻‍♀️ I'm a UX Engineer
+##  Hello, I'm Diana :smile:
+- 🙋🏻‍♀️ I'm a UX/UI and Frontend Engineer
 - 🌱 I’m working with React/Node
 -  I’m looking to collaborate on interesting projects.
 
