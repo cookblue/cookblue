@@ -1,6 +1,5 @@
 ##  Hi!  I'm Diana :smile:
 - 🙋🏻‍♀️ I'm a UX Engineer
-- 💞️ I'm interested in improving my technical skills
 - 🌱 I’m working with React/Node
 -  I’m looking to collaborate on interesting projects.
 
