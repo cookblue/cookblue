@@ -14,8 +14,6 @@ const caro = {
 You can find me: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookblue&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 These are my favorite command terminals:
 
 | Command  | Description | Example |
