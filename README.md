@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:E6D9FF&height=170&section=header&text=hi,%20i'm%20diana%20%F0%9F%8E%80&fontSize=42&fontColor=8A4F7D&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:E6D9FF&height=170&section=header&text=Hi,%20I'm%20Diana%20%F0%9F%8E%80&fontSize=42&fontColor=8A4F7D&fontAlignY=38" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=520&lines=coding+for+fun+%F0%9F%8C%B8;learning+new+things+every+day+%E2%9C%A8;solving+problems+for+the+girls+%F0%9F%92%95" alt="typing" />
@@ -45,9 +45,8 @@
 ### 💌 say hi
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=8A4F7D" /></a>
+  <a href="https://github.com/cookblue/cookblue/discussions"><img src="https://img.shields.io/badge/leave%20me%20a%20note-FFD6E8?style=for-the-badge&logo=github&logoColor=8A4F7D" /></a>
   <a href="https://codexly.pe"><img src="https://img.shields.io/badge/codexly.pe-E6D9FF?style=for-the-badge&logo=googlechrome&logoColor=8A4F7D" /></a>
-  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/email-FFF3C4?style=for-the-badge&logo=gmail&logoColor=8A4F7D" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D9FF,100:FFD6E8&height=110&section=footer" />
