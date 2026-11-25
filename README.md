@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:E6D9FF&height=170&section=header&text=Hi,%20I'm%20Diana%20%F0%9F%8E%80&fontSize=42&fontColor=8A4F7D&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:E6D9FF&height=170&section=header&text=hi,%20i'm%20diana%20%F0%9F%8E%80&fontSize=42&fontColor=8A4F7D&fontAlignY=38" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=520&lines=coding+for+fun+%F0%9F%8C%B8;learning+new+things+every+day+%E2%9C%A8;solving+problems+for+the+girls+%F0%9F%92%95" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=620&lines=they+said+COBOL+was+dead.+i%27m+still+here+%F0%9F%92%85;built+different.+compiled+different+%F0%9F%92%A5;solving+problems+for+the+girls.+you%27re+welcome+%F0%9F%92%95;code+ships.+mic+drop.+%F0%9F%8E%A4" alt="typing" />
 </p>
 
 <p align="center"><i>software engineer · fintech · mainframe meets AI 🫧</i></p>
