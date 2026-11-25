@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:E6D9FF&height=170&section=header&text=Hi,%20I%27m%20Diana&fontSize=42&fontColor=E0218A&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:E6D9FF&height=170&section=header&text=Hi,%20I%27m%20Diana&fontSize=42&fontColor=C06C84&fontAlignY=38" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=620&lines=they+said+COBOL+was+dead.+i%27m+still+here+%F0%9F%92%85;built+different.+compiled+different+%F0%9F%92%A5;solving+problems+for+the+girls.+you%27re+welcome+%F0%9F%92%95;code+ships.+mic+drop.+%F0%9F%8E%A4" alt="typing" />
