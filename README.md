@@ -1,31 +1,53 @@
-##  Hello, I'm Diana :smile:
-- 🙋🏻‍♀️ I'm a UX/UI and Frontend Engineer
-- 🌱 I’m working with React/Node
--  I’m looking to collaborate on interesting projects.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:E6D9FF&height=170&section=header&text=hi,%20i'm%20diana%20%F0%9F%8E%80&fontSize=42&fontColor=8A4F7D&fontAlignY=38" />
 
-```javascript
-const caro = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, Html, CSS],
-  tools: [React, Node, Jest],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-}
-```
-You can find me: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookblue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&pause=1200&color=D16BA5&center=true&vCenter=true&width=520&lines=coding+for+fun+%F0%9F%8C%B8;learning+new+things+every+day+%E2%9C%A8;solving+problems+for+the+girls+%F0%9F%92%95" alt="typing" />
+</p>
 
-These are my favorite command terminals:
+<p align="center"><i>software engineer · fintech · mainframe meets AI 🫧</i></p>
 
-| Command  | Description | Example |
-| :---: | :---- | :---: |
-| mkdir   | create a new folder | mkdir _[name-folder]_ 
-|  touch  | create a new file  |  touch _[name-file]_ |
-|  mv       |  change name of a folder | mv _[name.txt] [new-name.txt]_ 
-|   cp      |  copy files or directories                   | cp _[source] [location]_
-|   cat      |   get the entire text content of a file         | cat _[name-folder]_
+---
 
-These are my favorite alias:
-| Command  | Description            | 
-| :---:    | :----                  | 
-| gaa      | alias gaa = git add .  |
-| gst      | alias gst = git status |
+### 🌷 about me
+
+- 🍓 i build **projects just for fun** and learn something new with each one
+- 💡 i love **solving real problems for the girls**: tools, automations & little apps that make life easier
+- 💳 by day i work with **COBOL batch** on a credit card team
+- 🤖 currently learning **AI**: chatbots, agents & automation
+- 💬 i explain complex things in simple words
+
+### 🧁 what i code with
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-FFF3C4?style=for-the-badge&logo=javascript&logoColor=8A4F7D" />
+  <img src="https://img.shields.io/badge/Python-D9ECFF?style=for-the-badge&logo=python&logoColor=8A4F7D" />
+  <img src="https://img.shields.io/badge/COBOL-FFD6E8?style=for-the-badge&logo=ibm&logoColor=8A4F7D" />
+  <img src="https://img.shields.io/badge/React-DDF5EE?style=for-the-badge&logo=react&logoColor=8A4F7D" />
+  <img src="https://img.shields.io/badge/Node.js-E6F7D9?style=for-the-badge&logo=nodedotjs&logoColor=8A4F7D" />
+  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-E6D9FF?style=for-the-badge&logo=html5&logoColor=8A4F7D" />
+</p>
+
+### 🎀 little projects
+
+| project | what it does |
+|---|---|
+| 🌸 [**project-name-1**](https://github.com/cookblue/project-name-1) | one cute line about the problem it solves |
+| 🫧 [**project-name-2**](https://github.com/cookblue/project-name-2) | one cute line about the problem it solves |
+| 🍓 [**project-name-3**](https://github.com/cookblue/project-name-3) | one cute line about the problem it solves |
+
+### ✨ my little stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cookblue&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=D16BA5&text_color=8A4F7D&icon_color=F5A3C7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookblue&layout=compact&hide_border=true&bg_color=FFF5FA&title_color=D16BA5&text_color=8A4F7D" />
+</p>
+
+### 💌 say hi
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=8A4F7D" /></a>
+  <a href="https://codexly.pe"><img src="https://img.shields.io/badge/codexly.pe-E6D9FF?style=for-the-badge&logo=googlechrome&logoColor=8A4F7D" /></a>
+  <a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/email-FFF3C4?style=for-the-badge&logo=gmail&logoColor=8A4F7D" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D9FF,100:FFD6E8&height=110&section=footer" />
